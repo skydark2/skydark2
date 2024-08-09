@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **skydark2/skydark2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![https://www.google.com/imgres?q=ceu&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffotos-gratis%2Fceu-vibrante-natureza-beleza-cena-tranquila-por-do-sol-sobre-o-horizonte-gerado-pela-inteligencia-artificial_24640-131153.jpg&imgrefurl=https%3A%2F%2Fbr.freepik.com%2Ffotos%2Fceu-premiado&docid=uqFFi4kbLoFZsM&tbnid=Z7qMSMZC_RzRrM&vet=12ahUKEwjqz6KO1ueHAxUTpZUCHfzoJt4QM3oECHYQAA..i&w=626&h=358&hcb=2&ved=2ahUKEwjqz6KO1ueHAxUTpZUCHfzoJt4QM3oECHYQAA]()
+
